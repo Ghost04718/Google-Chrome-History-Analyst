@@ -64,8 +64,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Data Privacy Policy
 
-- [Chart.js](https://www.chartjs.org/)
-- [OpenAI](https://www.openai.com/)
-- [Webpack](https://webpack.js.org/)
+Your data are exclusively stored inside your browser and only be sent to Azure OpenAI models for AI insights.
