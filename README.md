@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Data Privacy Policy
 
-Your data are exclusively stored inside your browser and only be sent to Azure OpenAI models for AI insights.
+Your data are exclusively stored inside your browser and will not be leave your computer. Your data will only be sent to [Azure GitHub models](https://github.com/Azure/github-models) for AI insights.
